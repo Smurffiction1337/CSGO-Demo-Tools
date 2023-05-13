@@ -6,7 +6,6 @@
 # Make sure to install the demoinfocs and ffmpeg libraries before running this script. You can install demoinfocs using pip
 # pip install demoinfocs
 
-
 import demoinfocs
 import subprocess
 
