@@ -1,10 +1,9 @@
 # CSGO DEMO PARSER
 ### BY SMURFFICTION#1337
 
-Parse Demo for Kills of an certain player and renders the scene with x seconds infront and afetrwards
-*Custom settings:* *Resolution, Framerate, Target Player, add time before and after kill*
+# Parse Demo for Kills of an certain player and renders the scene with x seconds infront and afetrwards
+# Custom settings: Resolution, Framerate, Target Player, add time before and after kill
 
-````py
 import demoinfocs
 import subprocess
 
